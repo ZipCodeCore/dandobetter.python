@@ -3,17 +3,13 @@
 ### **Objective:**
 * To complete the method stubs in each of the provided python modules
 	* `calculator.py`
-	* `predicator.py`
-	* `string_manipulator.py`
 
 ### **Purpose:**
 * To establish familiarity with
-    * [method signatures and return statements]()
-    * [primitive data-types]()
-    * [class and object-definition]()
-    * [unit-testing]()
-    * [arrays]()
-    * [for loops]()
+    * method signatures and return statements
+    * primitive data-types
+    * class and object-definition
+    * [unittest](https://docs.python.org/3/library/unittest.html)
 
 
 ## Calculator
