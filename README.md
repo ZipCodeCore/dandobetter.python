@@ -45,7 +45,7 @@
 * Ensure that the tests run upon opening the project.
     * You should see `Tests Failed: ${number-of-tests} of ${number-of-tests} tests`
 * Execute the command below to run `unittest` of all python files with a suffix of `_test.py`
-        * `python -m unittest discover -s ./src/test/ -p '*_test.py'`
+    * `python -m unittest discover -s ./src/test/ -p '*_test.py'`
 
 
 
