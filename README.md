@@ -1,4 +1,4 @@
-# Python Fundamentals
+# Python Calculator
 
 ### **Objective:**
 * To complete the method stubs in each of the provided python modules
@@ -12,7 +12,7 @@
     * [unittest](https://docs.python.org/3/library/unittest.html)
 
 
-## Calculator
+## Instructions
 * Ensure each of the test cases passes successfully in the class [calculator_test.py](./src/test/calculator_test.py) by completing each of the method stubs in the class [calculator.py](src/main/calculator.py).
 * Method Stubs to be completed	
 	* `add(first_value, second_value)`
