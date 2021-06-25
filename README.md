@@ -1,4 +1,4 @@
-# Python Calculator
+# DanDoBetter - Python
 
 ### **Objective:**
 * To complete the method stubs in each of the provided python modules
